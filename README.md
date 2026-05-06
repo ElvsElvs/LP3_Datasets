@@ -12,4 +12,4 @@ https://www.kaggle.com/datasets/navjotkaushal/mobile-price-classification-datase
 
 # Projektā izmantotie algoritmi
 Nepārraudzītā mašīnmācīšanās - K-Means un Hierarhiskā klasterēšanas algoritmi
-Pāraudzītā mašīnmācīšanās - 
+Pāraudzītā mašīnmācīšanās - kNN, Random Forest, Neural Network
