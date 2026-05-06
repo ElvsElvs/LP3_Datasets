@@ -536,7 +536,7 @@ UHJpbWFyeV9jYW1lcmFfcHiUSwKMCXB4X2hlaWdodJRLAowLUGl4ZWxfd2lkdGiUSwKMBlJhbV9t
 YpRLAowQU2NyZWVuX2hlaWdodF9jbZRLAowQU2NyZWVuX3dlaWdodF9jbZRLAowJdGFsa190aW1l
 lEsCjAIzR5RLAowMdG91Y2hfc2NyZWVulEsCjAR3aWZplEsCaItLAXVoPn2UdWJldS4=
 </properties>
-		<properties node_id="14" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x07\xd9\x00\x00\x01\xa1\x00\x00\x08\xc1\x00\x00\x03f\x00\x00\x07\xda\x00\x00\x01\xc0\x00\x00\x08\xc0\x00\x00\x03e\x00\x00\x00\x00\x00\x00\x00\x00\rp\x00\x00\x07\xda\x00\x00\x01\xc0\x00\x00\x08\xc0\x00\x00\x03e', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="14" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 80, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03M\x00\x00\x01&lt;\x00\x00\x045\x00\x00\x02\xec\x00\x00\x03N\x00\x00\x01[\x00\x00\x044\x00\x00\x02\xeb\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03N\x00\x00\x01[\x00\x00\x044\x00\x00\x02\xeb', 'selectedFold': 1, 'sql_dl': False, 'stratify': True, 'use_seed': True, '__version__': 2}</properties>
 		<properties node_id="15" format="literal">{'auto_apply': True, 'controlAreaVisible': True, 'learner_name': '', 'metric_index': 0, 'n_neighbors': 5, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x06G\x00\x00\x02 \x00\x00\x07)\x00\x00\x031\x00\x00\x06H\x00\x00\x02?\x00\x00\x07(\x00\x00\x030\x00\x00\x00\x00\x00\x00\x00\x00\rp\x00\x00\x06H\x00\x00\x02?\x00\x00\x07(\x00\x00\x030', 'weight_index': 0, '__version__': 1}</properties>
 		<properties node_id="16" format="literal">{'activation_index': 1, 'alpha_index': 19, 'auto_apply': True, 'controlAreaVisible': True, 'hidden_layers_input': '100, 100', 'learner_name': '', 'max_iterations': 1000, 'replicable': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x06 \x00\x00\x02\x00\x00\x00\x07P\x00\x00\x03R\x00\x00\x06!\x00\x00\x02\x1f\x00\x00\x07O\x00\x00\x03Q\x00\x00\x00\x00\x00\x00\x00\x00\rp\x00\x00\x06!\x00\x00\x02\x1f\x00\x00\x07O\x00\x00\x03Q', 'solver_index': 1, '__version__': 2}</properties>
 		<properties node_id="17" format="pickle">gASVHgQAAAAAAAB9lCiMFGNvbXBhcmlzb25fY3JpdGVyaW9ulEsAjBJjb250cm9sQXJlYVZpc2li
@@ -559,15 +559,14 @@ Z2h0X2eUSwKGlIwSQ29yZXNfb2ZfcHJvY2Vzc29ylEsChpSMEVByaW1hcnlfY2FtZXJhX3B4lEsC
 hpSMCXB4X2hlaWdodJRLAoaUjAZSYW1fbWKUSwKGlIwJdGFsa190aW1llEsChpR0lIwFbWV0YXOU
 KYwKY2xhc3NfdmFyc5SMC3ByaWNlX3JhbmdllEsBhpSFlHViYXUu
 </properties>
-		<properties node_id="18" format="pickle">gASVygEAAAAAAAB9lCiMEmFwcGVuZF9wcmVkaWN0aW9uc5SIjBRhcHBlbmRfcHJvYmFiaWxpdGll
+		<properties node_id="18" format="pickle">gASVlAEAAAAAAAB9lCiMEmFwcGVuZF9wcmVkaWN0aW9uc5SIjBRhcHBlbmRfcHJvYmFiaWxpdGll
 c5SJjAphdXRvY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21l
 dHJ5lENCAdnQywADAAAAAAYfAAAB5QAACQ4AAANYAAAGIAAAAgQAAAkNAAADVwAAAAAAAAAADXAA
-AAYgAAACBAAACQ0AAANXlIwQc2VsZWN0ZWRfbGVhcm5lcpSMB2NvcHlyZWeUjA5fcmVjb25zdHJ1
-Y3RvcpSTlIwIYnVpbHRpbnOUjARsaXN0lJOUaA0ph5RSlEsBYYwRc2VsZWN0ZWRfcXVhbnRpdHmU
-SwGMC19fdmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0
-dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojAlzZWxlY3Rpb26Uj5RoEUsBdYwH
-Y2xhc3Nlc5QojAlIaWdoIGNvc3SUjAhMb3cgY29zdJSMC01lZGl1bSBjb3N0lIwOVmVyeSBIaWdo
-IGNvc3SUdJR1YmF1Lg==
+AAYgAAACBAAACQ0AAANXlIwQc2VsZWN0ZWRfbGVhcm5lcpRdlEsBYYwRc2VsZWN0ZWRfcXVhbnRp
+dHmUSwGMC19fdmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQu
+c2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojAlzZWxlY3Rpb26Uj5RoCksB
+dYwHY2xhc3Nlc5QojAlIaWdoIGNvc3SUjAhMb3cgY29zdJSMC01lZGl1bSBjb3N0lIwOVmVyeSBI
+aWdoIGNvc3SUdJR1YmF1Lg==
 </properties>
 		<properties node_id="19" format="pickle">gASVvgIAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBRkaXNwbGF5X2NvbnZleF9jdXJ2
 ZZSJjBNkaXNwbGF5X2NvbnZleF9odWxslImMFWRpc3BsYXlfZGVmX3RocmVzaG9sZJSIjBFkaXNw
