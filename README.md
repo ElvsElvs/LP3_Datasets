@@ -11,4 +11,5 @@ https://docs.google.com/document/d/1SAGW13N6iSI8DBtAvwzTXvwnZBwkrgDO/edit
 https://www.kaggle.com/datasets/navjotkaushal/mobile-price-classification-dataset
 
 # Projektā izmantotie algoritmi
-Loading......
+Nepārraudzītā mašīnmācīšanās - K-Means un Hierarhiskā klasterēšanas algoritmi
+Pāraudzītā mašīnmācīšanās - 
